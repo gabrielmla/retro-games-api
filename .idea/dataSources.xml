@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails retro-games-api: development" uuid="828aa2d6-92f4-44a2-9e06-1e31e17d052f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:retrogames_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails retro-games-api: test" uuid="84a00c6e-6d21-41a0-b907-4831f612455f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:retro-games-api_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails retro-games-api: production" uuid="d1ef053d-5be8-4573-8e7f-5c76ac2db617">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:retro-games-api_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
